@@ -19,6 +19,8 @@ body {
     justify-content: center;
     align-items: center;
     background: #f0f2f5;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 .main-left {
