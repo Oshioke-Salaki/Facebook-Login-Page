@@ -315,4 +315,7 @@ footer h6 {
     .form {
         width: 80%;
     }
+    br {
+        display: none;
+    }
 }
