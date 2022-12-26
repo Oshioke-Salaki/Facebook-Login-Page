@@ -312,4 +312,7 @@ footer h6 {
     .footer-top-right {
         display: flex;
     }
+    .form form {
+        width: 80%;
+    }
 }
